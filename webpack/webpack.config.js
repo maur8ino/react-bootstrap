@@ -5,7 +5,7 @@ export default {
 
   entry: {
     'react-bootstrap': './src/index.js',
-    'react-bootstrap-modal': './src/index-modal.js',
+    'react-bootstrap-custom-exports': './src/index-custom-exports.js',
   },
 
   output: {
