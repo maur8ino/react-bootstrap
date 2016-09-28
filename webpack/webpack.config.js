@@ -5,6 +5,7 @@ export default {
 
   entry: {
     'react-bootstrap': './src/index.js',
+    'react-bootstrap-modal': './src/index-modal.js',
   },
 
   output: {
@@ -29,6 +30,14 @@ export default {
         commonjs2: 'react-dom',
         commonjs: 'react-dom',
         amd: 'react-dom',
+      },
+    },
+    {
+      'classnames': {
+        root: 'classNames',
+        commonjs2: 'classnames',
+        commonjs: 'classnames',
+        amd: 'classnames',
       },
     },
   ],
