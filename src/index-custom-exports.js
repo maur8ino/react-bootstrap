@@ -7,3 +7,6 @@ export ModalTitle from './ModalTitle';
 // Tooltip
 export OverlayTrigger from './OverlayTrigger';
 export Tooltip from './Tooltip';
+// Popover
+export Popover from './Popover';
+
