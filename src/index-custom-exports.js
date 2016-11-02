@@ -9,4 +9,5 @@ export OverlayTrigger from './OverlayTrigger';
 export Tooltip from './Tooltip';
 // Popover
 export Popover from './Popover';
-
+// Overlay
+export Overlay from './Overlay';
